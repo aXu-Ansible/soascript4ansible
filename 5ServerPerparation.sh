@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 ##### 5.2 prepare jdk
 cd ~
 gzip -dc ~/software/jdk-8u162-linux-x64.tar.gz | tar xvfp -
